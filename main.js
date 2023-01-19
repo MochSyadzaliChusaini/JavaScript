@@ -1,4 +1,6 @@
 function cek(){
+   var
+   let
    const test = "Hello Everybody";
    console.log(test);
 
